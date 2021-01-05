@@ -1,0 +1,2 @@
+D:\Çalışmalar\Tasarım Desenleri Proje\BuilderPatternExample\BuilderPatternExample\obj\Debug\BuilderPatternExample.csprojAssemblyReference.cache
+D:\Çalışmalar\Tasarım Desenleri Proje\BuilderPatternExample\BuilderPatternExample\obj\Debug\BuilderPatternExample.csproj.CoreCompileInputs.cache
